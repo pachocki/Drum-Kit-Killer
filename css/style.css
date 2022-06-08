@@ -313,4 +313,7 @@ video {
     .drum{
         width:80px;
     }
+    .card h2{
+        font-size:1rem;
+    }
 }
